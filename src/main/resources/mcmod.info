@@ -1,0 +1,16 @@
+[
+{
+  "modid": "magicalsouls",
+  "name": "Magical Souls",
+  "description": "The Magical Souls mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["theMatys"],
+  "credits": "theMatys, for making the mod, the models and the textures.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
