@@ -1,0 +1,11 @@
+# Creative tab
+itemGroup.magicalsouls=Magical Souls
+
+# General
+magicalsouls.default_name=<MISSING NAME>
+
+# Items
+magicalsouls.item.soul_guide.name=Soul Guide
+
+# Blocks
+magicalsouls.block.soul_altar.name=Soul Altar

@@ -1,0 +1,11 @@
+# Creative tab
+itemGroup.magicalsouls=Magical Souls
+
+# General
+magicalsouls.default_name=<HIÁNYZÓ NÉV>
+
+# Items
+magicalsouls.item.soul_guide.name=Lélek Útikönyv
+
+# Blocks
+magicalsouls.block.soul_altar.name=Lélekoltár
